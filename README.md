@@ -31,7 +31,7 @@ The pro micro must be installed component side up. Check the slot in the case to
 # programming
 A precompiled hex has been supplied for the purist layout, as well as a json to use [ruiqi mao's unfortunately aging kb firmware builder](https://kbfirmware.com).
 
-![vanilla layout](https://github.com/uuupah/onebytwo/blob/main/layout.pngraw=true)
+![vanilla layout](https://github.com/uuupah/onebytwo/blob/main/layout.png?raw=true)
 
 As always, just use the [let's split guide](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md) to flash your pro micro with your layout. The process is identical, but since there is only one pcb, skip the mentions of eeprom files in part 3, step 5 and steps 11 through 16.
 
