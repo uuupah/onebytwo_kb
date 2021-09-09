@@ -17,7 +17,7 @@ The one by two harkens to a simpler time, where denmark's simple pad printing te
 Grab the zip and order a pcb through your favourite pcb manufacture service. I used JLCPCB. 
 
 # case
-The case is 3d printed. 3d print it. 
+The case is 3d printed from the stl file, check the ipt file if you want to modify it.
 
 # construction
 1. Solder in the diodes and pro micro headers first, and trim them close to the pcb. There isn't much space for legs. 
