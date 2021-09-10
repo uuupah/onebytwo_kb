@@ -20,13 +20,13 @@ Grab the zip and order a pcb through your favourite pcb manufacture service. I u
 The case is 3d printed from the stl file, check the ipt file if you want to modify it.
 
 # construction
-1. Solder in the diodes and pro micro headers first, and trim them close to the pcb. There isn't much space for legs. 
+1. Solder in the diodes and pro micro headers first, and trim them close to the pcb.
 2. Mount the stabiliser and do all of the stabiliser-related tweaking that you want to do.
 3. Fit the pcb into the case and solder the switches.
-4. Weasel the pro micro into the case and solder it down. This part sucks. This keyboard sucks.
+4. Weasel the pro micro into the case and solder it down. 
 5. Install keycaps.
 
-The pro micro must be installed component side up. Check the slot in the case to see if you have it installed the right way, as it will be immediately obvious if it's wrong.
+The pro micro must be installed component side up. Check the cable slot in the case to see if you have it installed the right way, as it will be immediately obvious if it's wrong.
 
 # programming
 A precompiled hex has been supplied for the purist layout, as well as a json to use [ruiqi mao's unfortunately aging kb firmware builder](https://kbfirmware.com).
@@ -36,13 +36,13 @@ A precompiled hex has been supplied for the purist layout, as well as a json to 
 As always, just use the [let's split guide](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md) to flash your pro micro with your layout. The process is identical, but since there is only one pcb, skip the mentions of eeprom files in part 3, step 5 and steps 11 through 16.
 
 # finishing up
-I recommend grabbing [ek switch hitter](https://elitekeyboards.com/switchhitter.php) to test each of your switches and function keys individually. If everything is working at this point, congratulations!  If not, don't fret. Pop the back open and inspect your soldering. Look for poor or missing joints, reversed diodes, or damage to the pcb or pro micro, then try reinstalling the firmware. if neither of these work, try desoldering and replacing the problem switch. If you're still having issues, try asking the mechanical keyboards discord for advice.
+I recommend grabbing [ek switch hitter](https://m.majorgeeks.com/files/details/switch_hitter.html) to test each of your switches  individually. If everything is working at this point, congratulations!  If not, don't fret. Flip the board over and inspect your soldering. Look for poor or missing joints, reversed diodes, or damage to the pcb or pro micro, then try reinstalling the firmware. if neither of these work, try desoldering and replacing the problem switch. If you're still having issues, try asking the mechanical keyboards discord for advice.
 
 ~~ note ~~
 I make no guarantees about the quality of any of the files I've supplied. Check them thoroughly yourself.
 
 ## acknowledgements
-As always, Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) did the pcb.
+As always, Meltyburrito aka dr. nu aka [screllicopter](https://github.com/ScrelliCopter) did the pcb.
 
 ## licensing
 
